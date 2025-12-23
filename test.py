@@ -1,0 +1,1 @@
+"C:\Users\Kartik\OneDrive\Desktop\2nd Year\BCA Degree Notes\6th Sem\4.DVA Notes & DVA\DVA\Dashboard Using Tkinter\Dashboard CSVs (Kaggle Files)\stock_prices.csv"
